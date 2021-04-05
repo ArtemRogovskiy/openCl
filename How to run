@@ -1,0 +1,2 @@
+1) gcc main.c -o vectorAddition -l OpenCL
+2) ./vectorAddition
